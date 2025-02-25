@@ -1,0 +1,17 @@
+Stack is just data structure that follow last in first out flow. We can call LIFO as well.
+
+The operations that you guys can perform on stack:
+
+1. isEmpty()
+2. isFull()
+3. Push
+4. Pop
+5. Peek
+
+
+We will create 2 files:
+
+1. Stack.java
+    This file will contains whole stack implementation of every method that we have discussed so far.
+2. StackDemo.java
+    This is the file in which we will use our stack data structure.
